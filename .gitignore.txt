@@ -1,0 +1,23 @@
+# Vivado generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Log files
+*.log
+*.jou
+*.rpt
+*.vdi
+
+# Binary files
+*.bit
+*.bin
+*.mcs
+*.svf
+*.mem
+
+# Other generated files
+*.str
+*.zip
